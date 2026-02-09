@@ -1,4 +1,4 @@
-This project is a website for Wine and Dine Restaurant a reputable restaurant company located in Accra with cherful dishes and nice serene atmosphere . It comtains the following entities:
+This project is a website for Wine and Dine Restaurant a reputable restaurant company located in Accra with cherful dishes and nice serene atmosphere . It contains the following entities:
 1.Home
 2.About
 3.Menu
